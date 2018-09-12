@@ -8,8 +8,7 @@ header img{
 }
 
 header{
-    text-align: center;
-    background: #00d7d7;
+    background: #9299B0;
 }
 
 .menu{
@@ -33,14 +32,15 @@ button{
 button:hover {background:lightgray;}
 
 .Company{
-    text-align: center;
+    /*text-align: center;*/
     margin: auto;
     padding: 0px;
-    background: cyan;
+    background: #303C61;
     max-width: 1300px;
+    color: white;
 }
 .Companybg{
-    background: cyan;
+    background: #303C61;
 }
 
 .Aboutbg{
@@ -49,7 +49,7 @@ button:hover {background:lightgray;}
 
 .About{
     color: white;
-    text-align: center;
+    /*text-align: center;*/
     margin: auto;
     background: black;
     padding: 0px;
@@ -68,4 +68,10 @@ h2{
 
 p1{
     font-size: 22px;
+}
+
+footer{
+    background: black;
+    color: white;
+    text-align: center;
 }
